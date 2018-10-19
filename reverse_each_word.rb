@@ -10,12 +10,12 @@ def reverse_each_word(string)
 end 
 
 
-def reverse_each_word(string)
-  new_array = string.split(" ")
+# def reverse_each_word(string)
+#   new_array = string.split(" ")
   
-  new_array.collect do |word| 
-    word.reverse 
-  end 
+#   new_array.collect do |word| 
+#     word.reverse 
+#   end 
   
-  new_array
-end 
+#   new_array
+# end 
